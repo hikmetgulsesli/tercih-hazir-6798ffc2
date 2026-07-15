@@ -1,0 +1,75 @@
+[
+  {
+    "screenId": "9083cd33fcdf4b68b2c8039441dd9386",
+    "title": "Tercih Sayfası - Tercih Hazır Aracı",
+    "componentName": "TercihSayfasiTercihHazirAraci",
+    "file": "src/screens/TercihSayfasiTercihHazirAraci.tsx",
+    "buttons": 1,
+    "inputs": 0,
+    "textareas": 0,
+    "selects": 0,
+    "links": 0,
+    "actions": [
+      {
+        "id": "hazir-1",
+        "kind": "button",
+        "label": "Hazır",
+        "index": 0,
+        "actionRef": "ACT_HAZIR_BUTTON_CLICK",
+        "generatedLocalId": "hazir-1",
+        "semanticSource": "data-action",
+        "sourceLocator": "stitch/9083cd33fcdf4b68b2c8039441dd9386.html",
+        "selector": "[data-action-id=\"hazir-1\"]"
+      }
+    ],
+    "controls": [
+      {
+        "id": "hazir-1",
+        "kind": "button",
+        "label": "Hazır",
+        "index": 0,
+        "actionRef": "ACT_HAZIR_BUTTON_CLICK",
+        "generatedLocalId": "hazir-1",
+        "semanticSource": "data-action",
+        "sourceLocator": "stitch/9083cd33fcdf4b68b2c8039441dd9386.html",
+        "selector": "[data-action-id=\"hazir-1\"]",
+        "generatedSourceLocator": "src/screens/TercihSayfasiTercihHazirAraci.tsx"
+      }
+    ],
+    "observables": [
+      {
+        "observableRef": "OBS_BTN_ENABLED",
+        "role": "button",
+        "name": "Hazır",
+        "sourceLocator": "stitch/9083cd33fcdf4b68b2c8039441dd9386.html",
+        "selector": "[data-observable-refs~=\"OBS_BTN_ENABLED\"]",
+        "generatedSourceLocator": "src/screens/TercihSayfasiTercihHazirAraci.tsx"
+      },
+      {
+        "observableRef": "OBS_BTN_VISIBLE",
+        "role": "button",
+        "name": "Hazır",
+        "sourceLocator": "stitch/9083cd33fcdf4b68b2c8039441dd9386.html",
+        "selector": "[data-observable-refs~=\"OBS_BTN_VISIBLE\"]",
+        "generatedSourceLocator": "src/screens/TercihSayfasiTercihHazirAraci.tsx"
+      }
+    ],
+    "projection": {
+      "schema": "setfarm.stitch-screen-projection.v2",
+      "mode": "contract_only",
+      "targetRef": "TARGET_TERCIH_PAGE",
+      "rawInteractiveCounts": {
+        "buttons": 1,
+        "links": 0,
+        "inputs": 0,
+        "textareas": 0,
+        "selects": 0
+      },
+      "requiredObservableRefs": [
+        "OBS_BTN_ENABLED",
+        "OBS_BTN_VISIBLE"
+      ]
+    },
+    "rejectedControls": []
+  }
+]
