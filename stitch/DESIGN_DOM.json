@@ -1,0 +1,98 @@
+{
+  "generatedAt": "2026-07-15T10:20:03.682Z",
+  "screenCount": 1,
+  "screens": {
+    "9083cd33fcdf4b68b2c8039441dd9386": {
+      "screenId": "9083cd33fcdf4b68b2c8039441dd9386",
+      "materialSymbolsRequired": true,
+      "sections": [
+        {
+          "tag": "header",
+          "layout": "block",
+          "classes": [
+            "bg-surface",
+            "dark:bg-surface",
+            "docked",
+            "full-width",
+            "top-0",
+            "border-b",
+            "border-outline-variant",
+            "dark:border-outline",
+            "flat",
+            "no"
+          ],
+          "childCount": 4
+        },
+        {
+          "tag": "main",
+          "layout": "flex-col",
+          "classes": [
+            "max-w-7xl",
+            "mx-auto",
+            "px-container-padding",
+            "py-stack-lg",
+            "flex",
+            "flex-col",
+            "items-center",
+            "justify-center",
+            "min-h-[calc(100vh-64px)]",
+            "space-y-stack-lg"
+          ],
+          "childCount": 2
+        }
+      ],
+      "buttons": [
+        {
+          "kind": "button",
+          "label": "Hazır",
+          "classes": [
+            "bg-primary",
+            "text-on-primary",
+            "font-body-md",
+            "text-body-md",
+            "px-8",
+            "py-3",
+            "rounded",
+            "w-full",
+            "hover:bg-primary-container",
+            "transition-colors",
+            "duration-200"
+          ],
+          "icon": null,
+          "action": "click-action",
+          "expectedBehavior": "produce visible DOM/state/URL feedback; never empty onClick"
+        }
+      ],
+      "inputs": [],
+      "navLinks": [],
+      "cards": [],
+      "icons": [
+        "settings",
+        "help"
+      ],
+      "images": [],
+      "cssVars": {},
+      "colorPalette": {},
+      "fonts": [
+        "Hanken Grotesk",
+        "Inter",
+        "JetBrains Mono",
+        "Material Symbols Outlined"
+      ],
+      "layoutHints": {
+        "flexDirection": "col"
+      },
+      "behaviorContract": [
+        {
+          "kind": "button",
+          "label": "Hazır",
+          "icon": null,
+          "action": "click-action",
+          "expectedBehavior": "produce visible DOM/state/URL feedback; never empty onClick"
+        }
+      ],
+      "tabBar": [],
+      "title": "Tercih Sayfası - Tercih Hazır Aracı"
+    }
+  }
+}

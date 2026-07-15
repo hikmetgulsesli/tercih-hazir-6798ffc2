@@ -1,0 +1,11 @@
+[
+  {
+    "screenId": "9083cd33fcdf4b68b2c8039441dd9386",
+    "name": "Tercih Sayfası - Tercih Hazır Aracı",
+    "type": "app-screen",
+    "description": "Tercih Sayfası ProductSpec surface",
+    "surfaceIds": [
+      "SURF_TERCIH_PAGE"
+    ]
+  }
+]
