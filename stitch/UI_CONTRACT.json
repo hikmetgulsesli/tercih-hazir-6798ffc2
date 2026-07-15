@@ -1,0 +1,27 @@
+[
+  {
+    "screenId": "9083cd33fcdf4b68b2c8039441dd9386",
+    "screenTitle": "Tercih Sayfası - Tercih Hazır Aracı",
+    "deviceType": "DESKTOP",
+    "elements": [
+      {
+        "type": "button",
+        "label": "Hazır",
+        "line": 210
+      }
+    ],
+    "navigation": [],
+    "buttons": [
+      {
+        "type": "button",
+        "label": "Hazır",
+        "line": 210
+      }
+    ],
+    "inputs": [],
+    "hardcodedData": [],
+    "totalInteractive": 1,
+    "requiresRouter": false,
+    "requiresDragDrop": false
+  }
+]
